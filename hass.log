@@ -1,0 +1,44 @@
+[compute1] create socket connection
+Excpeption : Authentication failed.
+[compute1] health
+[compute2] create socket connection
+Excpeption : Authentication failed.
+[compute2] health
+RESTful server ready! host : 192.168.4.12, port : 9999
+
+HASS Server ready
+ * Serving Flask app "HASS_RESTful" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
+[compute1] health
+[compute2] health
